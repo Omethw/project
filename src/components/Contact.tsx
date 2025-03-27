@@ -97,6 +97,7 @@ export const Contact = () => {
                 ></textarea>
               </div>
               
+              
               <div className="flex justify-between items-center pt-2">
                 <motion.a
                   whileHover={{ scale: 1.02 }}
